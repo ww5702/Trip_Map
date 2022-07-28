@@ -1,5 +1,5 @@
 # trip_app
-121232
+1212324343
    
 졸업작품   
 Android[Kotlin]   
